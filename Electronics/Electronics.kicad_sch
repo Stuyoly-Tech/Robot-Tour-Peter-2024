@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4c70cac4-2e87-4919-a1c8-fe5f41acf493)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 76.2 71.12) (size 21.59 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 95aef9fc-3811-4af8-99a5-cda59dbef7fc)
+    (property "Sheetname" "Motor Controller" (at 76.2 70.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Motor_Controller.kicad_sch" (at 76.2 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Electronics"
+        (path "/4c70cac4-2e87-4919-a1c8-fe5f41acf493" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
