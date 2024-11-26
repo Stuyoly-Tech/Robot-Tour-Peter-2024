@@ -315,6 +315,10 @@
     [
       "95aef9fc-3811-4af8-99a5-cda59dbef7fc",
       "Motor Controller"
+    ],
+    [
+      "28e49ffd-844b-4c36-9531-34600f6208a5",
+      "Telemetry Module"
     ]
   ],
   "text_variables": {}
