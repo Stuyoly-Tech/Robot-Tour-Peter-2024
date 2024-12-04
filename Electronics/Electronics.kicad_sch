@@ -25,6 +25,23 @@
     )
   )
 
+  (sheet (at 138.43 107.95) (size 21.59 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 71df0ed5-7483-46f9-8035-6ec85e8b9524)
+    (property "Sheetname" "Gyroscope" (at 138.43 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "bmi270.kicad_sch" (at 138.43 128.8546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Electronics"
+        (path "/4c70cac4-2e87-4919-a1c8-fe5f41acf493" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 76.2 71.12) (size 21.59 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
