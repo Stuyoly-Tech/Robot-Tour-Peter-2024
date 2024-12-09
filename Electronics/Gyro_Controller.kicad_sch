@@ -2052,7 +2052,7 @@
     (uuid eec3565d-bb1f-4bf6-8847-2f63a153d56e)
   )
 
-  (hierarchical_label "USB+" (shape input) (at 48.26 49.53 180) (fields_autoplaced)
+  (hierarchical_label "USB+" (shape bidirectional) (at 48.26 49.53 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 46747221-a85e-4e01-8356-9abc319a4cdb)
   )
@@ -2068,7 +2068,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7d7bc43b-7ec8-49b7-bcf3-33f09a208da8)
   )
-  (hierarchical_label "USB-" (shape input) (at 48.26 52.07 180) (fields_autoplaced)
+  (hierarchical_label "USB-" (shape bidirectional) (at 48.26 52.07 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 90c95504-1c44-49a0-be25-cdd06b170523)
   )
