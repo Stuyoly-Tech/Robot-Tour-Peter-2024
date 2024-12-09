@@ -318,11 +318,11 @@
     ],
     [
       "28e49ffd-844b-4c36-9531-34600f6208a5",
-      "Telemetry Module"
+      "Telemetry and Control Module"
     ],
     [
       "71df0ed5-7483-46f9-8035-6ec85e8b9524",
-      "Gyroscope"
+      "Gyro Controller"
     ]
   ],
   "text_variables": {}
