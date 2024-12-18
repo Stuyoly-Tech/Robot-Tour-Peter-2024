@@ -2524,7 +2524,7 @@
     (property "Reference" "SW1" (at 17.78 44.45 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "SW_Push" (at 17.78 55.88 0)
+    (property "Value" "RST" (at 17.78 55.88 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342" (at 13.97 52.07 0)
